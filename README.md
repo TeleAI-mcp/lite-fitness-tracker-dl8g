@@ -1,2 +1,3 @@
-# lite-fitness-tracker-dl8g
-Automated issue comment bot repository
+# Lite Fitness Tracker Dl8G
+
+Automated issue comment bot repository.
